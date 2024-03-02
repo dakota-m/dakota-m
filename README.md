@@ -20,7 +20,18 @@ Here are some ideas to get you started:
 <div style="display: flex;">
   <img alt="AMD" src="https://img.shields.io/badge/AMD-ED1C24?&logo=amd&style=for-the-badge&logoColor=black" />
 </div>
-<div style=“display: flex;”> <img alt=“AMD” src=“https://img.shields.io/badge/AMD-ED1C24?&logo=amd&style=for-the-badge&logoColor=black” /> <p style=“float: right; margin-left: 10px;”> <img alt="CPU" src="https://img.shields.io/badge/CPU-ED1C24?&logo=amazon-ec2&style=for-the-badge&logoColor=white" \> Ryzen 9 5900x</p> </div>
+<div style=“display: flex;”> 
+  <img alt=“AMD” src=“https://img.shields.io/badge/AMD-ED1C24?&logo=amd&style=for-the-badge&logoColor=black” /> 
+<p style=“float: right; margin-left: 10px;”> <img alt="CPU" src="https://img.shields.io/badge/ED1C24?&logo=amazon-ec2&style=for-the-badge&logoColor=black" \> Ryzen 9 5900x
+</p>
+</div>
+
+<div style="display: flex;">
+  <img alt="AMD" src="https://www.logo.wine/a/logo/Ryzen/Ryzen-AMD-Logo.wine.svg">&nbsp;
+</div>
+<div style="display: flex;">
+  <img alt="AMD" src="https://download.logo.wine/logo/Ryzen/Ryzen-AMD-Logo.wine.png">&nbsp;
+</div>
 
 # Languages and Tools
 
