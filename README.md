@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Languages and Tools
+# Tech Stack
 
 <div style="display: flex;">
 <img alt="Arch" src="https://img.shields.io/badge/Arch-1793D1?&logo=arch-linux&style=for-the-badge&logoColor=white" />
