@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hardware
-
-<div style="display: flex;">
-  <img alt="AMD" src="https://img.shields.io/badge/AMD-ED1C24?&logo=amd&style=for-the-badge&logoColor=black" />
-</div>
-<div style=“display: flex;”> <img alt=“AMD” src=“https://img.shields.io/badge/AMD-ED1C24?&logo=amd&style=for-the-badge&logoColor=black” /> <p style=“float: right; margin-left: 10px;”> <img alt="CPU" src="https://img.shields.io/badge/CPU-ED1C24?&logo=amazon-ec2&style=for-the-badge&logoColor=white" \> Ryzen 9 5900x</p> </div>
-
 # Languages and Tools
 
 <div style="display: flex;">
@@ -52,22 +45,4 @@ Here are some ideas to get you started:
 <div style="display: flex;">
 <img alt="Rust" src="https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white">
 <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-</div>
-
-## Languages and Tools:
-
-<div>
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">&nbsp;
-  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
-  <img width=50px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
-  <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
-  <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
 </div>
