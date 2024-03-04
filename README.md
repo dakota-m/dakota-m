@@ -46,3 +46,16 @@ Here are some ideas to get you started:
 <img alt="Rust" src="https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white">
 <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
 </div>
+
+## Hardware
+
+<img height=40 src="https://img.shields.io/badge/arch-%230078D6.svg?&style=for-the-badge&logo=archlinux&logoColor=white"></br>
+<img height=40 src="https://img.shields.io/badge/Zen 3-Ryzen 9%205900X-%23ED1C24?style=for-the-badge&logo=AMD&logoColor=black"></img>
+<img height=40 src="https://img.shields.io/badge/Corsair-Vengeance RGB PRO 32 GB-%23ffd900?style=for-the-badge&logo=corsair&logoColor=ffd900"></br>
+<img height=40 src="https://img.shields.io/badge/Nvidia%20-3080%20TI%20FE-%2376B900?style=for-the-badge&logo=nvidia"></br>
+<img height=40 src="https://img.shields.io/badge/ROG%20STRIX-X570--E-%2300539b?style=for-the-badge&logo=asus&logoColor=00539b"></br>
+<img height=40 src="https://img.shields.io/badge/EVGA-1000%20G2-%23050403?style=for-the-badge&logo=evga&logoColor=ffd900"></br>
+<img height=40 src="https://img.shields.io/badge/Crucial-P5 1 TB-%230C1A24?style=for-the-badge&logo=https://brand.crucial.com/visual/crucial-logo/content/dam/crucial/brand-assets/logos/crucial/official/simple-logo/crucial-logo.ai.transform/medium-png/img.png"></br>
+<img height=40 src="https://img.shields.io/badge/Samsung-970%20EVO%20Plus%20512%20GB-%231428a0?style=for-the-badge&logo=samsung&logoColor=1428a0"></br>
+
+<img height=40 src="https://img.shields.io/badge/Apple-Macbook%20Pro%20M1%20Max%20-%23000000?style=for-the-badge&logo=apple&logoColor=white"></br>
