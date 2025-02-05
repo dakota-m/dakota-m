@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ## Hardware
 
 <img height=40 src="https://img.shields.io/badge/arch-%230078D6.svg?&style=for-the-badge&logo=archlinux&logoColor=white"></br>
-<img height=40 src="https://img.shields.io/badge/Zen 3-Ryzen 9%205900X-%23ED1C24?style=for-the-badge&logo=AMD&logoColor=black"></br>
+<img height=40 src="https://img.shields.io/badge/Zen 3-Ryzen 9%209900X-%23ED1C24?style=for-the-badge&logo=AMD&logoColor=black"></br>
 <img height=40 src="https://img.shields.io/badge/Corsair-Vengeance RGB PRO 32 GB-%23ffd900?style=for-the-badge&logo=corsair&logoColor=ffd900"></br>
 <img height=40 src="https://img.shields.io/badge/Nvidia%20-3080%20TI%20FE-%2376B900?style=for-the-badge&logo=nvidia"></br>
 <img height=40 src="https://img.shields.io/badge/ROG%20STRIX-X570--E-%2300539b?style=for-the-badge&logo=asus&logoColor=00539b"></br>
